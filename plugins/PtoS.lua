@@ -1,5 +1,4 @@
---shared by @punisher_team
---@punisher_official
+
 
 local function tosticker(msg, success, result)
   local receiver = get_receiver(msg)
@@ -37,5 +36,3 @@ return {
   },
   run = run,
 }
---shared by @punisher_team
---@punisher_official
